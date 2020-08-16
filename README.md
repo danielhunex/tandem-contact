@@ -9,7 +9,7 @@ This will prepare the postgres database in a docker container
 
 2.  Navigate to src\ContactAddress\ContactAddress on command prompt and run the following command to create the database
       
-      dotnet-ef database update
+     ``` dotnet-ef database update  ```
        
 3. Run the solutuon, use swagger and make api calls with postman (http://localhost:5000/swagger
 
